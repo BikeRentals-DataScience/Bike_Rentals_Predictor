@@ -1,3 +1,4 @@
 # Bike_Rentals_Predictor
-This is an open source project aimed at solving a past machine learning competition problem on Kaggle.
-Python code, a report, and a presentation slide is included.
+This was an attempt to complete a past Kaggle data science competition. 2 years worth of data were given and the task was to predict the number of bycle rentals that would occur on any given hour for future dates. 
+
+This was completed in a team of 3 as part of cs4661 an Introduction to Data Science course. GitHub link will be posted shortly.It was a regression problem. Linear Regression, KNN Regression, Random Forest Regression, Decision Tree Regression, ADA BOOST, PCA, and XGB Boost were applied to solve the problem. A presentation powerpoint as well as a report were also completed with this project. Although, our results did not make any major breakthroughs it was a great experience in solving real world problems with data science and machine learning tools. The code was all completed in python.
